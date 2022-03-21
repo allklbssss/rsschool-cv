@@ -15,6 +15,15 @@ In RSSchool I hope to pump up my skills and find my first job.
 ### Skills
 * HTML, CSS
 * JavaScript, TypeScript
+* React
+* Git, GitHub
+* VS Code
+
+---
+
+### Courses
+* JavaScript by Владилен Минин
+* React JS by webDev
 
 ---
 ### Languages
